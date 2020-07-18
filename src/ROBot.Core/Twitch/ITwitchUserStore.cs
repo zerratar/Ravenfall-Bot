@@ -1,4 +1,4 @@
-﻿namespace RavenfallOfficial.Core.Twitch
+﻿namespace ROBot.Core.Twitch
 {
     public interface ITwitchUserStore
     {

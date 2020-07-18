@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Linq;
-using RavenfallOfficial.Core.Repositories;
+using ROBot.Core.Repositories;
 
-namespace RavenfallOfficial.Core.Twitch
+namespace ROBot.Core.Twitch
 {
     public class TwitchUserStore : FileBasedRepository<TwitchUser>, ITwitchUserStore
     {

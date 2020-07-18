@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-namespace RavenfallOfficial.Core
+namespace ROBot.Core
 {
     public interface ITwitchCommandClient : IDisposable
     {

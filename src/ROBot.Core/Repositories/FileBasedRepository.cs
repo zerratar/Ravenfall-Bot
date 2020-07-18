@@ -5,7 +5,7 @@ using System.Linq;
 using System.Threading;
 using Newtonsoft.Json;
 
-namespace RavenfallOfficial.Core.Repositories
+namespace ROBot.Core.Repositories
 {
     public abstract class FileBasedRepository<TInterface, TImpl>
         : FileBasedRepository<TInterface> where TImpl : TInterface

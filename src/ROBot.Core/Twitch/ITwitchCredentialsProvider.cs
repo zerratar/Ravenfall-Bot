@@ -1,6 +1,6 @@
 ﻿using TwitchLib.Client.Models;
 
-namespace RavenfallOfficial.Core
+namespace ROBot.Core
 {
     public interface ITwitchCredentialsProvider
     {

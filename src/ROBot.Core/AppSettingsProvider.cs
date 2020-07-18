@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace RavenfallOfficial.Core
+namespace ROBot.Core
 {
     public class AppSettingsProvider
     {

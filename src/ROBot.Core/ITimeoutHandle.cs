@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace RavenfallOfficial.Core
+namespace ROBot.Core
 {
     public interface ITimeoutHandle
     {

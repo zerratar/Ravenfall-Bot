@@ -4,7 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace RavenfallOfficial.Core.Extensions
+namespace ROBot.Core.Extensions
 {
     public static class ListExtensions
     {

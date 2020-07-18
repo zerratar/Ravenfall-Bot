@@ -1,8 +1,8 @@
-﻿using RavenfallOfficial.Core;
+﻿using ROBot.Core;
 using System.Threading.Tasks;
 using TwitchLib.Client.Models;
 
-namespace ROBot.Ravenfall
+namespace ROBot.Ravenfall.TwitchCommands
 {
     public class Help : TwitchCommandHandler
     {

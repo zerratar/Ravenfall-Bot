@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Concurrent;
 
-namespace RavenfallOfficial.Core
+namespace ROBot.Core
 {
     public interface IKernel
     {

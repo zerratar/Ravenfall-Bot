@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
-using RavenfallOfficial.Core;
-using RavenfallOfficial.Core.Handlers;
+using ROBot.Core;
+using ROBot.Core.Handlers;
 using TwitchLib.Client;
 using TwitchLib.Client.Events;
 using TwitchLib.Communication.Clients;
@@ -9,7 +9,7 @@ using TwitchLib.Communication.Enums;
 using TwitchLib.Communication.Events;
 using TwitchLib.Communication.Models;
 
-namespace RavenfallOfficial
+namespace ROBot
 {
     public class TwitchCommandClient : ITwitchCommandClient
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace RavenfallOfficial.Core.Twitch
+namespace ROBot.Core.Twitch
 {
     public class TwitchUser : ITwitchUser
     {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading;
 
-namespace RavenfallOfficial.Core
+namespace ROBot.Core
 {
     public class Kernel : IKernel
     {

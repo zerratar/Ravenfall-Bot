@@ -5,7 +5,7 @@ using System.Reflection;
 using System.Threading.Tasks;
 using TwitchLib.Client.Models;
 
-namespace RavenfallOfficial.Core.Handlers
+namespace ROBot.Core.Handlers
 {
     public class TwitchCommandController : ITwitchCommandController
     {

@@ -1,4 +1,4 @@
-﻿namespace RavenfallOfficial.Core.Handlers
+﻿namespace ROBot.Core.Handlers
 {
     public interface ICommand
     {

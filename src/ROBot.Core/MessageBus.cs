@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace RavenfallOfficial.Core
+namespace ROBot.Core
 {
     public class MessageBus : IMessageBus
     {

@@ -1,4 +1,4 @@
-﻿namespace RavenfallOfficial.Core
+﻿namespace ROBot.Core
 {
     public interface IAppSettings
     {

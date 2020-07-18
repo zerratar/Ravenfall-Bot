@@ -3,7 +3,7 @@ using System;
 using System.Threading.Tasks;
 using TwitchLib.Client.Models;
 
-namespace RavenfallOfficial.Core
+namespace ROBot.Core
 {
     public abstract class TwitchCommandHandler : ITwitchCommandHandler
     {
